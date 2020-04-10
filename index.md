@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome Tea For IT
 
 You can use the [editor on GitHub](https://github.com/kz777/teaforit.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
